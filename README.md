@@ -46,5 +46,4 @@ Les contributions sont les bienvenues. Si vous souhaitez ajouter des fonctionnal
 
 TSIKA Helicia 
 
-
-Si tu as besoin d'aide pour héberger ou ajouter l'image, fais-le moi savoir ! Pour toute question ou suggestion, vous pouvez me contacter via mon profil GitHub.
+Pour toute question ou suggestion, vous pouvez me contacter via mon profil GitHub.
