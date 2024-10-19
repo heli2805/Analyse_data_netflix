@@ -35,7 +35,7 @@ Les données utilisées pour ce projet proviennent de plusieurs sources, notamme
 ## Installation
 1. Clonez ce dépôt GitHub :  
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   git clone https://github.com/heli2805/Analyse_data_netflix.git
 
 2. Ouvrez les fichiers dans Tableau Desktop pour explorer et modifier les visualisations.
 
