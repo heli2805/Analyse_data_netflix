@@ -13,7 +13,7 @@ L'analyse se concentre sur les points suivants :
 
 ## Aperçu du Tableau de bord
 
-![Aperçu du Tableau de bord Netflix](./Capture) 
+![Aperçu du Tableau de bord Netflix](./Capture.png) 
 
 ## Tableau de bord
 Vous pouvez consulter le tableau de bord interactif sur **Tableau Public** en suivant ce lien :  
